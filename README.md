@@ -1,16 +1,15 @@
-## Hi there 👋
+Olá, eu sou Ketully.  
 
-<!--
-**mketully/mketully** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sou estudante técnica em Desenvolvimento de Sistemas e estou no início da minha jornada na programação.  
+Este GitHub serve como um registro do meu aprendizado e da minha evolução na área de tecnologia.  
 
-Here are some ideas to get you started:
+ **Tecnologias em aprendizado**
+- Lógica de programação  
+- Python  
+- Git e GitHub  
+- HTML, CSS e JavaScript  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+*Meu objetivo é construir uma base sólida em programação
+e, com o tempo, desenvolver projetos que reflitam meu crescimento e minhas habilidades.*
+
+

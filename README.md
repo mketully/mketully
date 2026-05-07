@@ -6,7 +6,6 @@ Este GitHub serve como um registro do meu aprendizado e da minha evolução na �
  **Tecnologias em aprendizado**
 - Lógica de programação  
 - Python  
-- PHP 
 - Git e GitHub  
 - HTML, CSS e JavaScript  
 
